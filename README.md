@@ -55,11 +55,11 @@ Further cleaning and modelling were done in power bi.
 ![](./images/model.png)
 
 ## Findings
-•	Total number of crashes between 1908 and 2009 is 5,236.
-•	Compared to the previous year-till-date; the total number of fatality (this includes the ground and fatalities column) and fatality rate increased while the number of crashes decreased.
-•	1972 is the year with the highest number of crashes (104). 
-•	The 9/11 attack is the only one that resulted in more ground casualties.
-•	Most crashes occur in December, closely followed by January and August.
+-  Total number of crashes between 1908 and 2009 is 5,236.
+-  Compared to the previous year-till-date; the total number of fatality (this includes the ground and fatalities column) and fatality rate increased while the number of crashes decreased.
+-	1972 is the year with the highest number of crashes (104). 
+-	The 9/11 attack is the only one that resulted in more ground casualties.
+-	Most crashes occur in December, closely followed by January and August.
 
 ## Recommendations
 1.	Weather forecast should be properly done before flights take off.
@@ -69,9 +69,7 @@ Further cleaning and modelling were done in power bi.
 The summary column which contains a description about the crash didn’t contain uniform data. Some had more descriptions, others little or nothing.
 
 ## Dashboard
-Two dashboards were created using the 5W approach; a static and interactive one
-![](./images/static.jpg)
-![](./images/interactive.jpg)
+Two dashboards were created using the 5W approach; a static and interactive one. Both are in the images folder
 
 ## Author
 
